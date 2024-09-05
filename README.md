@@ -10,7 +10,7 @@
 幻灯片
 ------
 
-- [Part-1](PPT/part_1.pptx)
+- [Part-1](PPT/part_1.ppt)
 
 作业
 ----------
