@@ -11,6 +11,7 @@
 ------
 
 - [Part-1](PPT/part_1.ppt)
+- [Part-2](PPT/part_2.ppt)
 
 作业
 ----------
